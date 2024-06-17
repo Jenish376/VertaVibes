@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-(https://vertavibes.onrender.com/)
+https://vertavibes.onrender.com/
 
 
   
